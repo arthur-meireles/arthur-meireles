@@ -2,7 +2,7 @@
 <h2> Olá, eu sou o Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
 
 <!-- GIF RIGHT -->
-<img align='right' src="https://imgur.com/6ojPUxn" width="230">
+<img align='right' src="https://i.imgur.com/6ojPUxn.gif" width="230">
 
 <!-- EDUCATION -->
 <p>Faço <strong>Sistemas da Informação</strong> na <a href="https://uniceplac.com.br/"><strong>Uniceplac</strong></a><p>
@@ -19,7 +19,7 @@
 <br>
 
 <!-- ABOUT ME -->
-<p align="center"><h3><img src="./icon.gif" width="50"> Sobre mim... </h3><p>
+<p align="center"><h3><img src="https://i.imgur.com/AyIm11U.gif" width="50"> Sobre mim... </h3><p>
     
 ```javascript
 const arthur = {
@@ -29,7 +29,7 @@ const arthur = {
 }
 ```
 <!-- GIF CODING -->
-<img align='right' src="./coding.gif" width="260">
+<img align='right' src="https://i.imgur.com/6UA2HZQ.gif" width="260">
 <br>
 <!-- MY TECH STACK -->
 <p align="center"><h3>💻 Minha Stack... </h3><p>
@@ -44,7 +44,7 @@ const arthur = {
 <!-- FOOTER -->
 <br>
 <hr>
-<p><img align='left' src="./dino.gif" width="64">
+<p><img align='left' src="https://i.imgur.com/OwqniFu.gif" width="64">
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthur-meireles%2Farthur-meireles&count_bg=%239327F9&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
