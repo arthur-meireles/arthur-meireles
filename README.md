@@ -1,7 +1,13 @@
 <h2> Hello, I`m Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
+
 <img align='right' src="./giphy.gif" width="230">
-<p><em>Sistemas da Informação em <a href="https://uniceplac.com.br/">Uniceplac</a>
-<br/>
+
+<br>
+<p>Faço <em>Sistemas da Informação</em> na <a href="https://uniceplac.com.br/">Uniceplac</a>
+<br>
+  
+<p><em>Minhas Redes:</a>
+<br>
 
 <a href="https://www.linkedin.com/in/o-arthur-meireles/">
   <img align="left" alt="Arthur´s Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,12 +15,10 @@
 <a href="https://github.com/arthur-meireles">
   <img align="left" alt="Arthur´s  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
+<br>
 
-<br/>
-<br/>
-
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
+## <img src="./icon.gif" width="50"> About me...  
 
 ```javascript
 const arthur = {
@@ -23,6 +27,7 @@ const arthur = {
   challenge: "I am doing the #100DaysOfCode challenge."
 }
 ```
+<br>
 
 ## 💻 My Tech Stack
 
