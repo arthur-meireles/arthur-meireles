@@ -28,7 +28,8 @@ const arthur = {
   challenge: "I am doing the #100DaysOfCode challenge."
 }
 ```
-<img align='right' src="./coding.gif" width="230">
+<!-- GIF CODING -->
+<img align='right' src="./coding.gif" width="260">
 <br>
 <!-- MY TECH STACK -->
 <p align="center"><h3>💻 Minha Stack... </h3><p>
