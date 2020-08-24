@@ -1,8 +1,6 @@
 <h2> Hello, I`m Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Sistemas da Informação em <a href="https://uniceplac.com.br/">Uniceplac</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
-
+<img align='right' src="./giphy.gif" width="230">
+<p><em>Sistemas da Informação em <a href="https://uniceplac.com.br/">Uniceplac</a>
 <br/>
 
 <a href="https://www.linkedin.com/in/o-arthur-meireles/">
@@ -21,7 +19,7 @@
 ```javascript
 const arthur = {
   code: [Javascript, HTML, CSS],
-  tools: [React JS, React Native, Redux, Node],
+  tools: [React JS, React Native, Node, Express],
   challenge: "I am doing the #100DaysOfCode challenge."
 }
 ```
