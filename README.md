@@ -1,4 +1,4 @@
-<h2> Hello, I`m Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
+<h2> Olá, eu sou o Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
 
 <img align='right' src="./giphy.gif" width="230">
 
