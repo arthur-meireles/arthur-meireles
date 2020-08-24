@@ -34,6 +34,7 @@ const arthur = {
 <br>
 <!-- MY TECH STACK -->
 <p align="center"><h3>💻 Minha Stack... </h3><p>
+    
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![HTML/CSS](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![FlexBlog](https://img.shields.io/static/v1?label=FlexBlog&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/FlexBlog) |
@@ -44,4 +45,5 @@ const arthur = {
 <br>
 <img align='right' src="./dino.gif" width="64">
 <br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthur-meireles%2Farthur-meireles&count_bg=%239327F9&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
