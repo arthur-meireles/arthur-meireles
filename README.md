@@ -8,7 +8,7 @@
 <p>Faço <strong>Sistemas da Informação</strong> na <a href="https://uniceplac.com.br/"><strong>Uniceplac</strong></a><p>
     
 <!-- SOCIAL MEDIAS -->
-<p><em>Minhas Redes:</a>
+<p><strong>Minhas Redes:</strong></a>
 <br>
 <a href="https://www.linkedin.com/in/o-arthur-meireles/">
   <img align="left" alt="Arthur´s Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
