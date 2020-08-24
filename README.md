@@ -16,6 +16,7 @@
 <a href="https://github.com/arthur-meireles">
   <img align="left" alt="Arthur´s  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 
 <!-- ABOUT ME -->
 <p align="center"><h3><img src="./icon.gif" width="50"> Sobre mim... </h3><p>
@@ -38,8 +39,8 @@ const arthur = {
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Bootcamp Fullstack](https://img.shields.io/static/v1?label=BootcampFullstack&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/bootcamp_fullstack) |
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![Guia Perguntas](https://img.shields.io/static/v1?GuiaPerguntas&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/GuiaPerguntas) [![Atividades Complementares](https://img.shields.io/static/v1?AtividadesComplementares&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/estagiosupervisionado) |
 <!-- FOOTER -->
----
 <br>
+---
 <p><img align='left' src="./dino.gif" width="64">
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthur-meireles%2Farthur-meireles&count_bg=%239327F9&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
