@@ -2,7 +2,7 @@
 <h2> Olá, eu sou o Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
 
 <!-- GIF RIGHT -->
-<img align='right' src="./giphy.gif" width="230">
+<img align='right' src="https://imgur.com/6ojPUxn" width="230">
 
 <!-- EDUCATION -->
 <p>Faço <strong>Sistemas da Informação</strong> na <a href="https://uniceplac.com.br/"><strong>Uniceplac</strong></a><p>
