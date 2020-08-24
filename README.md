@@ -19,11 +19,9 @@
   <img align="left" alt="Arthur´s  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-<br>
-
 <!-- ABOUT ME -->
 <p align="center"><h3><img src="./icon.gif" width="50"> Sobre mim... </h3><p>
-
+    
 ```javascript
 const arthur = {
   code: [Javascript, HTML, CSS],
@@ -35,16 +33,12 @@ const arthur = {
 <img align='right' src="./coding.gif" width="230">
 <br>
 <!-- MY TECH STACK -->
-<p align="center"><h3><img src="./icon.gif" width="50"> Sobre mim... </h3><p>
-## 💻 Minha Stack...
-
+<p align="center"><h3>💻 Minha Stack... </h3><p>
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![HTML/CSS](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![FlexBlog](https://img.shields.io/static/v1?label=FlexBlog&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/FlexBlog) |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Bootcamp Fullstack](https://img.shields.io/static/v1?label=BootcampFullstack&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/bootcamp_fullstack) |
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![Guia Perguntas](https://img.shields.io/static/v1?GuiaPerguntas&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/GuiaPerguntas) [![Atividades Complementares](https://img.shields.io/static/v1?AtividadesComplementares&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/arthur-meireles/estagiosupervisionado) |
-
-
 <!-- FOOTER -->
 ---
 <br>
