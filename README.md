@@ -5,9 +5,7 @@
 <img align='right' src="./giphy.gif" width="230">
 
 <!-- EDUCATION -->
-<br>
 <p>Faço <strong>Sistemas da Informação</strong> na <a href="https://uniceplac.com.br/"><strong>Uniceplac</strong></a><p>
-<br>
     
 <!-- SOCIAL MEDIAS -->
 <p><em>Minhas Redes:</a>
@@ -18,7 +16,7 @@
 <a href="https://github.com/arthur-meireles">
   <img align="left" alt="Arthur´s  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br>
+
 <!-- ABOUT ME -->
 <p align="center"><h3><img src="./icon.gif" width="50"> Sobre mim... </h3><p>
     
@@ -29,7 +27,6 @@ const arthur = {
   challenge: "I am doing the #100DaysOfCode challenge."
 }
 ```
-<br>
 <img align='right' src="./coding.gif" width="230">
 <br>
 <!-- MY TECH STACK -->
@@ -43,7 +40,9 @@ const arthur = {
 <!-- FOOTER -->
 ---
 <br>
-<img align='right' src="./dino.gif" width="64">
-<br>
-
+<p><img align='left' src="./dino.gif" width="64">
+    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthur-meireles%2Farthur-meireles&count_bg=%239327F9&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</p>
+
