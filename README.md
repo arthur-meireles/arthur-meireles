@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h2> Olá, eu sou o Arthur! <img src="https://media.giphy.com/media/iH6b5GO3v2jMdHabiI/giphy.gif" width="50"></h2>
-
+ 
 <!-- GIF RIGHT -->
 <img align='right' src="https://i.imgur.com/6ojPUxn.gif" width="230">
 
